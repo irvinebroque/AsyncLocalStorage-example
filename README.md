@@ -1,3 +1,6 @@
+### Local dev
+
+`npm start`
 
 
 ### Relevant config
